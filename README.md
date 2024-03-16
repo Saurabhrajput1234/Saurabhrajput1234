@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
-
-- 👨‍💻 All of my projects are available at [https://portfolio-12-two.vercel.app/](https://portfolio-12-two.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://saurabh-portfolio-swart.vercel.app/](https://saurabh-portfolio-swart.vercel.app/)
 
 - 💬 Ask me about **react,node**
 
