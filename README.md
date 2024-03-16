@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhrajput1234&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhrajput1234" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhrajput1234" alt="saurabhrajput1234" /></a> </p>
+<h3 align="center">A passionate MERN stack developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-12-two.vercel.app/](https://portfolio-12-two.vercel.app/)
 
