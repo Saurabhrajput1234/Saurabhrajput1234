@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh</h1>
-- 👨‍💻 All of my projects are available at [[https://saurabh-portfolio-swart.vercel.app/](https://saurabh-portfolio-swart.vercel.app/)]
+- 👨‍💻 All of my projects are available at (https://saurabh-portfolio-swart.vercel.app/)
 
 - 💬 Ask me about **react,node**
 
