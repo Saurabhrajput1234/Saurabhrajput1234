@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saurabh</h1>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://saurabh-portfolio-swart.vercel.app/)
-
 - 💬 Ask me about **React, Node.js, ASP.NET Core**
 
 - 📫 How to reach me **saurabh2113076@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uA9r_8-qHJN3OFras9Sr7_bJvSgsKXwD/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RPH2k19EckKSEzt4mmPbr-T_CKL8B79M/view?usp=sharing)
 
 ---
 
