@@ -1,42 +1,65 @@
-<h1 align="center">Hi 👋, I'm Saurabh</h1>
+<h1 align="center">Hi 👋, I'm Saurabh Rajput</h1>
+<h3 align="center">Full Stack Developer | MERN • ASP.NET Core • Problem Solver</h3>
 
-- 💬 Ask me about **React, Node.js, ASP.NET Core**
-
-- 📫 How to reach me **saurabh2113076@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RPH2k19EckKSEzt4mmPbr-T_CKL8B79M/view?usp=sharing)
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saurabh-rajput-135587232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/saurabhrajput8280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saurabh2113076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:saurabh2113076@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square" /></a>
+  <a href="https://linkedin.com/in/saurabh-rajput-135587232" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://www.leetcode.com/saurabh2113076" target="blank"><img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=flat-square&logo=leetcode" /></a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 👨‍💻 About Me
+
+* 🎓 **B.Tech (IT)** student passionate about building scalable web applications
+* 💡 Strong interest in **Full Stack Development** and **Backend Engineering**
+* 🔭 Currently working with **React, Node.js, MongoDB, ASP.NET Core**
+* 🏆 Hackathon experience with real-world, production-focused solutions
+* 💬 Ask me about **MERN Stack, ASP.NET Core, REST APIs, Authentication**
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+HTML • CSS • JavaScript • React • Tailwind • Bootstrap
+
+**Backend**
+Node.js • Express.js • ASP.NET Core • REST APIs
+
+**Database & Auth**
+MongoDB • Firebase • JWT • OAuth 2.0
+
+**Tools & Platforms**
+Git • GitHub • Postman • Figma
+
+---
+
+### 🌐 Connect With Me
+
 <p align="left">
-<a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" alt="aspnetcore" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://linkedin.com/in/saurabh-rajput-135587232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/saurabhrajput8280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/saurabh2113076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 </p>
 
 ---
 
-📊 **GitHub Stats:**  
+### 📄 Resume
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhrajput1234&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhrajput1234&" alt="GitHub Streak" /></p>
+📌 [View My Resume](https://drive.google.com/file/d/1RPH2k19EckKSEzt4mmPbr-T_CKL8B79M/view?usp=sharing)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhrajput1234&show_icons=true&theme=react" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhrajput1234&theme=react" height="160" />
+</p>
+
+---
+
+### 🚀 Quote I Believe In
+
+> "Code is not just about syntax, it's about solving real problems efficiently."
